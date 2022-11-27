@@ -81,6 +81,9 @@ with this viewing option.<p>
 # Chosen phenomenon for assessment:
 
 After researching possible options for this assignment, I decided to explore an area that is related to my current job in the medical device industry. The dataset of my choice can be found in ![Kaggle](https://www.kaggle.com/code/mennatallahnasr/stroke/data). <p> 
+
+<img src="https://media.istockphoto.com/id/1168179082/photo/man-with-brain-stroke-symptoms.jpg?s=612x612&w=0&k=20&c=eYZ9ayO0rR0Su3vN3EU48CxOOnwxUXDgXhpAYb2s7L4=" width="300">
+
 It is called the Stroke Prediction Dataset and has the following attribute information:<p>
 1) id: unique identifier
 2) gender: "Male", "Female" or "Other"
