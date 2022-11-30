@@ -126,4 +126,9 @@ binder/zero-to-binder.html Accessed on 27 Nov 2022
 - [SciKit-Learn] (https://scikit-learn.org/stable/modules/preprocessing.html#preprocessing-categorical-features) Accessed on 26 Nov 2022
 - https://towardsdatascience.com/top-3-python-packages-to-generate-synthetic-data-33a351a5de0c Accessed on 06 Nov 2022
 - https://www.youtube.com/watch?v=r-uOLxNrNk8 Accessed on 27 Nov 2022
+- https://towardsdatascience.com/synthetic-dataset-generation-for-ml-using-scikit-learn-and-more-beab8cacc8f8 Accessed on 28 Nov 2022
 
+- https://www.simplilearn.com/regression-vs-classification-in-machine-learning-article Accessed on 28 Nov 2022
+- https://www.kaggle.com/code/madhurpant/stroke-advanced-eda-with-prediction#7.-Data-Preprocessing
+- https://www.kaggle.com/code/mennatallahnasr/stroke#split-the-data-:
+- https://www.kaggle.com/code/muqarrishzaib/stroke-risk-predictive-analysis
