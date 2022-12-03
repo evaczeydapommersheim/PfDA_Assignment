@@ -111,19 +111,18 @@ _This dataset is used to predict whether a patient is likely to get stroke based
 ## References:
 
 - https://www.anaconda.com/products/distribution 
-(Accessed  on 16 Nov 2022)
+Accessed  on 16 Nov 2022
 
-- https://en.wikipedia.org/wiki/Markdown (Accessed 
-on 15 Nov 2022)
+- https://en.wikipedia.org/wiki/Markdown Accessed 
+on 15 Nov 2022
 - https://www.freecodecamp.org/news/
-how-to-write-a-good-readme-file/ (Accessed on 15 
-Nov 2022)
+how-to-write-a-good-readme-file/ Accessed on 15 
+Nov 2022
 - https://www.dataschool.io/
-cloud-services-for-jupyter-notebook/ (Accessed on 
-17 Nov 2022)
-- https://the-turing-way.netlify.app/communication/
-binder/zero-to-binder.html Accessed on 27 Nov 2022
-- [SciKit-Learn] (https://scikit-learn.org/stable/modules/preprocessing.html#preprocessing-categorical-features) Accessed on 26 Nov 2022
+cloud-services-for-jupyter-notebook/ Accessed on 
+17 Nov 2022
+- https://the-turing-way.netlify.app/communication/binder/zero-to-binder.html Accessed on 27 Nov 2022
+- https://scikit-learn.org/stable/modules/preprocessing.html#preprocessing-categorical-features Accessed on 26 Nov 2022
 - https://towardsdatascience.com/top-3-python-packages-to-generate-synthetic-data-33a351a5de0c Accessed on 06 Nov 2022
 - https://www.youtube.com/watch?v=r-uOLxNrNk8 Accessed on 27 Nov 2022
 - https://towardsdatascience.com/synthetic-dataset-generation-for-ml-using-scikit-learn-and-more-beab8cacc8f8 Accessed on 28 Nov 2022
