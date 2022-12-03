@@ -129,6 +129,10 @@ binder/zero-to-binder.html Accessed on 27 Nov 2022
 - https://towardsdatascience.com/synthetic-dataset-generation-for-ml-using-scikit-learn-and-more-beab8cacc8f8 Accessed on 28 Nov 2022
 
 - https://www.simplilearn.com/regression-vs-classification-in-machine-learning-article Accessed on 28 Nov 2022
-- https://www.kaggle.com/code/madhurpant/stroke-advanced-eda-with-prediction#7.-Data-Preprocessing
+- https://www.kaggle.com/code/madhurpant/stroke-advanced-eda-with-prediction#7.-Data-Preprocessing Accessed on 01 Nov 2022
 - https://www.kaggle.com/code/mennatallahnasr/stroke#split-the-data-:
-- https://www.kaggle.com/code/muqarrishzaib/stroke-risk-predictive-analysis
+- https://www.kaggle.com/code/muqarrishzaib/stroke-risk-predictive-analysis Accessed on 21 Nov 2022
+- https://towardsai.net/p/data-science/how-when-and-why-should-you-normalize-standardize-rescale-your-data-3f083def38ff Accessed on 25 Nov 2022
+- https://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html Accessed on 03 Dec 2022
+- https://towardsdatascience.com/5-techniques-to-work-with-imbalanced-data-in-machine-learning-80836d45d30c Accessed on 03 Dec 2022
+- https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.SMOTE.html Accessed on 03 Dec 2022
