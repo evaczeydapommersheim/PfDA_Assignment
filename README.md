@@ -1,22 +1,22 @@
 # PfDA_Assignment - Project 1
 
-**Author: Eva Czeyda-Pommersheim**
+***Author: Eva Czeyda-Pommersheim***
 
-## Introduction
+## **Introduction**
 
 #### This project has been prepared for the 2022 Winter Semester Course of HDip in Computing in Data Analytics, Programming for Data Analysis module led by Dr. Brian McGinley at Atlantic Technological University. 
 
-## Assessment Task:
+## **Assessment Task**:
 
-> - Choose a real-world phenomenon that can be measured and for which you could.
-> - Collect at least one-hundred data points across at least four different variables.
-> - Investigate the types of variables involved, their likely distributions, and their
+- Choose a real-world phenomenon that can be measured and for which you could.
+- Collect at least one-hundred data points across at least four different variables.
+- Investigate the types of variables involved, their likely distributions, and their
 relationships with each other.
-> - Synthesise/simulate a data set as closely matching their properties as possible.
-> - Detail your research and implement the simulation in a Jupyter notebook – the
+- Synthesise/simulate a data set as closely matching their properties as possible.
+- Detail your research and implement the simulation in a Jupyter notebook – the
 data set itself can simply be displayed in an output cell within the notebook.
 
-## Environment - System Requirement<p>
+## **Environment - System Requirement**<p>
 ---
 This project is presented in a Jupyter Notebook 
 which is part of this repository.  
@@ -78,7 +78,7 @@ manner. The code can be run, but no changes will be
 posted to the file. No collaboration is possible 
 with this viewing option.<p>
 
-# Chosen phenomenon for assessment:
+## **Chosen phenomenon for assessment**:
 
 After researching possible options for this assignment, I decided to explore an area that is related to my current job in the medical device industry. The dataset of my choice can be found in ![Kaggle](https://www.kaggle.com/code/mennatallahnasr/stroke/data). <p> 
 
@@ -102,13 +102,25 @@ About the data:<p>
 _According to the World Health Organization (WHO) stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths._<p>
 _This dataset is used to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status. Each row in the data provides relavant information about the patient._<p>
 
-## Table of Content:
+## **Table of Content**:
 
->
-1. 
-2. 
+> Libraries<p>
+> 1. The Dataset
+>> 1.1 Importing dataset<p>
+>> 1.2 Exploring the data<p>
+>> 1.3 Visualizing data<p>
 
-## References:
+> 2. Preprocessing<p>
+>> 2.1 Encoding categorical features into numeric arrays<p>
+>>> 2.1.1 OneHotEncoder()<p>
+>>2.2 Normalization of continuous variables
+> 3. Balancing<p>
+> 4. Modelling<p>
+>> 4.1 Fitting and Predicting with alternative methods<p>
+> 5. Scoring<p>
+> Conclusion
+
+## **References**:
 
 - https://www.anaconda.com/products/distribution 
 Accessed  on 16 Nov 2022
@@ -135,3 +147,7 @@ cloud-services-for-jupyter-notebook/ Accessed on
 - https://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html Accessed on 03 Dec 2022
 - https://towardsdatascience.com/5-techniques-to-work-with-imbalanced-data-in-machine-learning-80836d45d30c Accessed on 03 Dec 2022
 - https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.SMOTE.html Accessed on 03 Dec 2022
+- https://www.youtube.com/watch?v=gJo0uNL-5Qw Accessed on 03 Dec 2022
+
+## **License**<p>
+*This Notebook was released under GNU General Public License v3.0 license*.
