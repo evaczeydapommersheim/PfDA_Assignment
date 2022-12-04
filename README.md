@@ -120,7 +120,7 @@ _This dataset is used to predict whether a patient is likely to get stroke based
 > 2.1 Encoding categorical features into numeric arrays<p>
 > 2.1.1 OneHotEncoder()<p>
 > 2.2 Normalization of continuous variables<p>
-3. Balancing<p>
+3. Balancing / Sythezising data<p>
 4. Modelling<p>
 > 4.1 Fitting and Predicting with alternative methods<p>
 5. Scoring<p>
