@@ -6,7 +6,7 @@
 
 #### This project has been prepared for the 2022 Winter Semester Course of HDip in Computing in Data Analytics, Programming for Data Analysis module led by Dr. Brian McGinley at Atlantic Technological University. 
 
-## **Assessment Task**:
+## **Assessment Task**
 
 - Choose a real-world phenomenon that can be measured and for which you could.
 - Collect at least one-hundred data points across at least four different variables.
@@ -78,7 +78,7 @@ manner. The code can be run, but no changes will be
 posted to the file. No collaboration is possible 
 with this viewing option.<p>
 
-## **Chosen phenomenon for assessment**:
+## **Chosen phenomenon for assessment**
 
 After researching possible options for this assignment, I decided to explore an area that is related to my current job in the medical device industry. The dataset of my choice can be found in ![Kaggle](https://www.kaggle.com/code/mennatallahnasr/stroke/data). <p> 
 
@@ -102,25 +102,25 @@ About the data:<p>
 _According to the World Health Organization (WHO) stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths._<p>
 _This dataset is used to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status. Each row in the data provides relavant information about the patient._<p>
 
-## **Table of Content**:
+## **Table of Content**
 
-> Libraries<p>
-> 1. The Dataset
->> 1.1 Importing dataset<p>
->> 1.2 Exploring the data<p>
->> 1.3 Visualizing data<p>
+0. Libraries<p>
+1. Introduction of the dataset
+> 1.1 Importing dataset<p>
+> 1.2 Exploring the data<p>
+> 1.3 Visualizing data<p>
 
-> 2. Preprocessing<p>
->> 2.1 Encoding categorical features into numeric arrays<p>
->>> 2.1.1 OneHotEncoder()<p>
->>2.2 Normalization of continuous variables
-> 3. Balancing<p>
-> 4. Modelling<p>
->> 4.1 Fitting and Predicting with alternative methods<p>
-> 5. Scoring<p>
-> Conclusion
+2. Preprocessing<p>
+> 2.1 Encoding categorical features into numeric arrays<p>
+> 2.1.1 OneHotEncoder()<p>
+> 2.2 Normalization of continuous variables<p>
+3. Balancing<p>
+4. Modelling<p>
+> 4.1 Fitting and Predicting with alternative methods<p>
+5. Scoring<p>
+6. Conclusion
 
-## **References**:
+## **References**
 
 - https://www.anaconda.com/products/distribution 
 Accessed  on 16 Nov 2022
