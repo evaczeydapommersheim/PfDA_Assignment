@@ -60,6 +60,7 @@ notebook content.<p>
 
 *Option B - Viewing the notebook in the cloud*
 
+
 > **nbviewer** is a web application that lets a URL 
 to be entered of a Jupyter Notebook file, it 
 renders that notebook as a static HTML web page, 
@@ -67,8 +68,9 @@ and gives you stable link to that page which then
 can be shared with others. <p> nbviewer is an open 
 source project under the larger Project Jupyter 
 initiative along with other projects like Jupyter 
-Notebook, JupyterLab, and JupyterHub.<p> Here is 
-the static link to my Jupyter Notebook:<p> https://nbviewer.org/github/evaczeydapommersheim/PfDA_Assignment/blob/main/PfDA_Assignment.ipynb<p>
+Notebook, JupyterLab, and JupyterHub.<p> The static link to my Jupyter Notebook can be reached by clicking on below link or badge below:<p> https://nbviewer.org/github/evaczeydapommersheim/PfDA_Assignment/blob/main/PfDA_Assignment.ipynb<p>
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/evaczeydapommersheim/PfDA_Assignment/blob/main/PfDA_Assignment.ipynb)
 
 > **Binder** is a service provided by the Binder 
 Project, which is a member of the Project Jupyter 
@@ -78,9 +80,13 @@ manner. The code can be run, but no changes will be
 posted to the file. No collaboration is possible 
 with this viewing option.<p>
 
+The interactive link to my Github repository and Jupyter Notebook can be reached by clicking on link or badge below:<p>
+https://mybinder.org/v2/gh/evaczeydapommersheim/PfDA_Assignment/HEAD<p>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/evaczeydapommersheim/PfDA_Assignment/HEAD)
+
 ## **Chosen phenomenon for assessment**
 
-After researching possible options for this assignment, I decided to explore an area that is related to my current job in the medical device industry. The dataset of my choice can be found in ![Kaggle](https://www.kaggle.com/code/mennatallahnasr/stroke/data). <p> 
+After researching possible options for this assignment, I decided to explore an area that is related to my current job in the medical device industry. The dataset of my choice can be found in [Kaggle](https://www.kaggle.com/code/mennatallahnasr/stroke/data). <p> 
 
 <img src="https://media.istockphoto.com/id/1168179082/photo/man-with-brain-stroke-symptoms.jpg?s=612x612&w=0&k=20&c=eYZ9ayO0rR0Su3vN3EU48CxOOnwxUXDgXhpAYb2s7L4=" width="300">
 
